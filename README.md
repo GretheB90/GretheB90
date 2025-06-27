@@ -34,7 +34,7 @@ On this page I will showcase my projects and scripts I've made in Python for cyb
   My socials:
   
 <div align="center">
-  <a href="gretheb.dk">
+  <a href="https://gretheb.dk/">
     <img src="https://file.garden/aCYZ-4JXQhkEOK6u/website-icon-294822.png" height="50" width="50" target="_blank" />
   <a href="https://bsky.app/profile/gretheb.dk">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png" height="50" width="50" target="_blank" />
