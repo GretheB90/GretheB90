@@ -13,19 +13,30 @@ It has been quite interesting, educational but also a challenge.
 
 Thanks to my friends who many work within the field, I've learned a lot and started building up confidence.
 
-My previous experience with anything IT and web is mostly from common use of my own PC usage, being a digital artist and studied
+My previous experience with anything IT and web is mostly from common use of my own PC usage and from being a digital artist and studied
 in webdesign/multimedia. This time I'm conducting this study on my own, not under a education system.
 
 On this page I will showcase my projects and scripts I've made in Python for cyber security so far.
 
-### What I'm currently learning:
+### :seedling: What I'm currently learning:
 
 - Python
 - PhP
 - Linux
 
-### What I got experience in currently:
+### :four_leaf_clover: What I got experience in currently:
 
 - Windows
 - HTML
 - CSS
+
+<div align="center">
+  My socials:
+  
+<div align="center">
+  <a href="gretheb.dk">
+    <img src="https://file.garden/aCYZ-4JXQhkEOK6u/website-icon-294822.png" height="50" width="50" target="_blank" />
+  <a href="https://bsky.app/profile/gretheb.dk">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png" height="50" width="50" target="_blank" />
+    
+</div>
