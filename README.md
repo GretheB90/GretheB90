@@ -23,6 +23,7 @@ On this page I will showcase my projects and scripts I've made in Python for cyb
 ### :seedling: What I'm currently learning: :seedling:
 
 <div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="30" width="30" target="_blank" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="30" target="_blank" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="30" width="30" target="_blank" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="30" width="30" target="_blank" />
@@ -50,13 +51,3 @@ On this page I will showcase my projects and scripts I've made in Python for cyb
   <a href="https://bsky.app/profile/gretheb.dk">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png" height="50" width="50" target="_blank" />    
 </div>
-
-<div align="center"> 
-My tools:
-
-<div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="50" width="50" target="_blank" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height="50" width="50" target="_blank" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" height="50" width="50" target="_blank" />
-</div>
-
