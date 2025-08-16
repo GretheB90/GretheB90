@@ -15,20 +15,31 @@ Thanks to my friends who many work within the field, I've learned a lot and star
 
 My previous experience with anything IT and web is mostly from common use of my own PC usage and from being a digital artist and studied
 in webdesign/multimedia. This time I'm conducting this study on my own, not under a education system.
+Currently I've used mostly resources from Online to progress and by asking peers I know who works in the industry and friends who
+enjoy the world of IT and learned more than what I could have imagined.
 
 On this page I will showcase my projects and scripts I've made in Python for cyber security so far.
 
-### :seedling: What I'm currently learning:
+### :seedling: What I'm currently learning: :seedling:
 
-- Python
-- PhP
-- Linux
+<div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" height="30" width="30" target="_blank" />
+</div>
 
-### :four_leaf_clover: What I got experience in currently:
+### :four_leaf_clover: What I got experience in currently: :four_leaf_clover:
 
-- Windows
-- HTML
-- CSS
+<div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="30" width="30" target="_blank" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" height="30" width="30" target="_blank" />
+</div>
 
 <div align="center">
   My socials:
@@ -45,7 +56,6 @@ My tools:
 
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="50" width="50" target="_blank" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" height="50" width="50" target="_blank" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height="50" width="50" target="_blank" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" height="50" width="50" target="_blank" />
 </div>
