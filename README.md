@@ -31,6 +31,7 @@ On this page I will showcase my projects and scripts I've made in Python for cyb
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height="30" width="30" target="_blank" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" height="30" width="30" target="_blank" />
 </div>
+- Wireshark
 
 ### :four_leaf_clover: What I got experience in currently: :four_leaf_clover:
 
